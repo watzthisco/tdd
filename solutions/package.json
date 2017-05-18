@@ -1,5 +1,9 @@
 {
   "name": "lab-files",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/watzthisco/tdd.git"
+  },
   "version": "1.0.0",
   "description": "TDD boilerplate",
   "engines": {
