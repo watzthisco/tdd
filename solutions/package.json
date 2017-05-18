@@ -11,6 +11,7 @@
   },
   "main": "index.js",
   "scripts": {
+    "start": "http-server",
     "jasmine": "jasmine",
     "test": "karma start --singleRun",
     "build": "echo \"BUILD OK\" && exit 0",
@@ -23,6 +24,7 @@
   "devDependencies": {
     "eslint": "^3.19.0",
     "eslint-plugin-react": "^7.0.1",
+    "http-server": "^0.10.0",
     "jasmine": "^2.6.0",
     "jasmine-reporters": "^2.2.1",
     "karma": "^1.7.0",
